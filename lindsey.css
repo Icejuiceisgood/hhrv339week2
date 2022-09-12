@@ -1,0 +1,31 @@
+body{
+    margin:5px;
+    padding:5px;
+    line-height:1.15;
+ }
+  
+ h1,h2, h3{
+    font-weight: bold;
+    margin-top:15px;
+  
+ }
+ ul li{
+    margin-left: 25px;
+    list-style-type: upper-roman;
+ }
+
+ nav li {
+    background-color: aqua;
+    border-radius: 40px;
+    border-color: black;
+ }
+ p {
+    font-family: "Arial";
+ }
+ img {
+    border-style: dotted;
+    width: 24%;
+ }
+ nav li{ 
+    display: inline-block;
+ }
