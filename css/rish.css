@@ -17,6 +17,7 @@ ul li{
     display: inline-block
 }
 
-nav{
+nav li{
     display:block;
+    background-color: aqua;
 }
